@@ -238,7 +238,7 @@ Jika peralatan memiliki status `Tersedia`, maka status akan berubah menjadi `Dip
 
 Screenshot berikut menunjukkan proses ketika laptop dengan kode tertentu berhasil dipinjam dan status peralatan berubah dari `Tersedia` menjadi `Dipinjam`.
 
-<img width="311" height="206" alt="image" src="https://github.com/user-attachments/assets/0e6bc34f-f118-464b-b3d9-0c7049d2a33a" />
+<img width="293" height="642" alt="image" src="https://github.com/user-attachments/assets/9e3c35a9-d8f7-430a-8d45-bd812fef60be" />
 
 ### Proses Pengembalian
 
@@ -252,7 +252,7 @@ Setelah proses berhasil, status peralatan yang sebelumnya `Dipinjam` akan beruba
 
 Screenshot berikut menunjukkan proses pengembalian laptop setelah sebelumnya dilakukan peminjaman.
 
-<img width="303" height="202" alt="image" src="https://github.com/user-attachments/assets/a18959ab-eb0a-4fde-8f23-d68272751501" />
+<img width="306" height="631" alt="image" src="https://github.com/user-attachments/assets/74850f7d-a7a7-4ff0-98bf-bdd19901f2e3" />
 
 ### Keluar dari Program
 
